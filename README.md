@@ -1,7 +1,7 @@
 # oxk666
 <p align="center">
     <a href="#">
-        <img src="https://cdn.discordapp.com/attachments/861368716930318346/891396237440462908/edzz.gif">
+        <img src="https://cdn.discordapp.com/attachments/640991626902241291/938984388794912808/stuba.png">
     </a>
 </p>
 

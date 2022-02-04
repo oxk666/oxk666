@@ -1,4 +1,5 @@
-# StuBa Muistakaa heittää creditit sitten! :))
+# oxk666
+Muistakaa heittää creditit sitten! :))
 
 <img align="right" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 

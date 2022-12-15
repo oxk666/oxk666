@@ -1,4 +1,7 @@
 # <StuBa>
+
+**Active developer**
+
 ```
 Self taught student, coding since 2018
 

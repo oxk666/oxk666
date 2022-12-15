@@ -2,9 +2,9 @@
 ```
 Self taught student, coding since 2018
 
-lua (100%)
-css (90%)
-html (90%)
+lua (90%)
+css (80%)
+html (80%)
 js (50%)
 c# (40%)
 ```

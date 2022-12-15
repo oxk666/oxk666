@@ -1,6 +1,6 @@
 # oxk666
 ```
-Finnish self taught student, coding since 2018
+Self taught student, coding since 2018
 
 lua (100%)
 css (90%)

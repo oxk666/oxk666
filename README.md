@@ -5,8 +5,8 @@ Finnish self taught student, coding since 2018
 lua (100%)
 css (90%)
 html (90%)
-c# (40%)
 js (50%)
+c# (40%)
 ```
 
 

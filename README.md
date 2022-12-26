@@ -3,7 +3,7 @@
 **Active developer**
 
 ```
-Self taught student, coding since 2018
+Self taught developer, coding since 2018
 
 lua (90%)
 css (80%)
